@@ -4,12 +4,6 @@
 > Freshman @**Inha University in Tashkent**  
 > Turning coffee into code since 2020 ☕
 
-### 🚀 About Me
-- 1st-year Computer Science & Software Engineering student
-- Already building full-stack apps with clean architecture
-- Love pixel-perfect UI and scalable backends
-- Always learning, always shipping
-
 ### 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -24,6 +18,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+### 🚀 About Me
+- 1st-year Computer Science & Software Engineering student
+- Already building full-stack apps with clean architecture
+- Love pixel-perfect UI and scalable backends
+- Always learning, always shipping
 
 ### 🏗 Other Superpowers
 - Full-stack app architecture planning
