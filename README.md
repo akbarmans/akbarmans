@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Mansurov Akbar 👋
 
 ![](https://via.placeholder.com/1200x400.png?text=Full-Stack+Developer+•+Inha+University+in+Tashkent)  
 *(replace with your own banner)*
 
 > Freshman @ **Inha University in Tashkent**  
-> Turning coffee into code since 2025 ☕
+> Turning coffee into code since 2020 ☕
 
 ### 🚀 About Me
 - 1st-year Computer Science & Software Engineering student
@@ -45,20 +45,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
 ### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourusername)  
-[![Email](https://img.shields.io/badge/Email-Hello-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbar-mansurov-917005313/)  
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/akbarmansurov)  
+[![Email](https://img.shields.io/badge/Email-Hello-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mansurovakbar100808@gmail.com)
 
 > Open to internships, freelance gigs, open-source, or just tech talk!  
 > DMs always open
 
 ---
 Made with ❤️ and a lot of code in Tashkent  
-⭐️ From [Your Name](https://github.com/YOUR_USERNAME)
+⭐️ From Mansurov Akbar(https://github.com/YOUR_USERNAME)
