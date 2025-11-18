@@ -1,9 +1,7 @@
 # Hi there, I'm Mansurov Akbar 👋
 
-![](https://via.placeholder.com/1200x400.png?text=Full-Stack+Developer+•+Inha+University+in+Tashkent)  
-*(replace with your own banner)*
 
-> Freshman @ **Inha University in Tashkent**  
+> Freshman @**Inha University in Tashkent**  
 > Turning coffee into code since 2020 ☕
 
 ### 🚀 About Me
