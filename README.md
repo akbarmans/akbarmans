@@ -27,12 +27,14 @@
 
 ### 🏗 Other Superpowers
 - Full-stack app architecture planning
+- System Design
 - REST API design
 - MVC pattern & clean code
 - UI/UX prototyping (Figma)
 - Version control wizard
 
 ### 🔥 Currently Working On
+- Health Platform - health.ruhiyat.uz
 - Mastering Data Structures & Algorithms in C++ (uni)
 - Building production-ready Django + modern frontend projects
 - Preparing for internships 2026
