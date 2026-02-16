@@ -1,4 +1,4 @@
-# Hi there, I'm Mansurov Akbar 👋
+Mansurov Akbar 
 
 
 > Freshman @**Inha University in Tashkent**  
@@ -44,6 +44,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akbar-mansurov-917005313/)  
@@ -52,7 +53,3 @@
 
 > Open to internships, freelance gigs, open-source, or just tech talk!  
 > DMs always open
-
----
-Made with ❤️ and a lot of code in Tashkent  
-⭐️ From Mansurov Akbar(https://github.com/YOUR_USERNAME)
